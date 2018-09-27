@@ -1,0 +1,7 @@
+C:\GitHub\minutosseguros\oportunidade\FeedMinutoSeguro\bin\Debug\FeedMinutoSeguro.exe.config
+C:\GitHub\minutosseguros\oportunidade\FeedMinutoSeguro\bin\Debug\FeedMinutoSeguro.exe
+C:\GitHub\minutosseguros\oportunidade\FeedMinutoSeguro\bin\Debug\FeedMinutoSeguro.pdb
+C:\GitHub\minutosseguros\oportunidade\FeedMinutoSeguro\obj\Debug\FeedMinutoSeguro.csprojAssemblyReference.cache
+C:\GitHub\minutosseguros\oportunidade\FeedMinutoSeguro\obj\Debug\FeedMinutoSeguro.csproj.CoreCompileInputs.cache
+C:\GitHub\minutosseguros\oportunidade\FeedMinutoSeguro\obj\Debug\FeedMinutoSeguro.exe
+C:\GitHub\minutosseguros\oportunidade\FeedMinutoSeguro\obj\Debug\FeedMinutoSeguro.pdb
